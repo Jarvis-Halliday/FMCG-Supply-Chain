@@ -63,6 +63,6 @@ The dashboard provides real-time visibility into supply chain operations, helpin
 
 ## Author
 
-Parzival
+Sharad Kumar
 
 Aspiring Data Analyst | Power BI | SQL | Excel | Python
