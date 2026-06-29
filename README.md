@@ -1,14 +1,68 @@
-# FMCG-Supply-Chain
-## This is a codebasics resume project challenge 2
-AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is currently operational in three cities Surat, Ahmedabad and Vadodara. They want to expand to other metros/Tier 1 cities in the next 2 years.
+# Supply Chain Analytics Dashboard | Power BI
 
-AtliQ Mart is currently facing a problem where a few key customers did not extend their annual contracts due to service issues. It is speculated that some of the essential products were either not delivered on time or not delivered in full over a continued period, which could have resulted in bad customer service. Management wants to fix this issue before expanding to other cities and requested their supply chain analytics team to track the ’On time’ and ‘In Full’ delivery service level for all the customers daily basis so that they can respond swiftly to these issues.
+## Project Overview
 
-The Supply Chain team decided to use a standard approach to measure the service level in which they will measure ‘On-time delivery (OT) %’, ‘In-full delivery (IF) %’, and OnTime in full (OTIF) %’ of the customer orders daily basis against the target service level set for each customer.
+This project presents an interactive Supply Chain Analytics Dashboard developed using **Power BI** to monitor key supply chain performance metrics for an FMCG business. The dashboard enables stakeholders to track operational efficiency, delivery performance, inventory trends, and order fulfillment through interactive visualizations.
 
-### Task:  
-Peter Pandey is the data analyst in the supply chain team who joined AtliQ Mart recently. He has been briefed about the the task in the stakeholder business review meeting. Now imagine yourself as Peter Pandey and play the role of the new data analyst who is excited to build this dashboard and perform the following task:
+## Objectives
 
-Create the metrics according to the metrics list.
-Create a dashboard according to the requirements provided by stakeholders in the business review meeting. You will be provided with the transcript of this business review meeting in comic form.
-Create relevant insights not provided in the metric list/stakeholder meeting.
+* Monitor overall supply chain performance
+* Analyze order fulfillment and delivery metrics
+* Identify operational bottlenecks
+* Track inventory and supplier performance
+* Support data-driven business decisions
+
+## Tools & Technologies
+
+* Power BI
+* Power Query
+* DAX
+* Microsoft Excel
+
+## Dashboard Features
+
+* Executive KPI Dashboard
+* Order & Delivery Analysis
+* Inventory Performance
+* On-Time Delivery Tracking
+* Fill Rate Analysis
+* Supplier Performance
+* Interactive Filters and Drill-through
+
+## Key KPIs
+
+* Total Orders
+* Fill Rate
+* On-Time Delivery %
+* In-Full Delivery %
+* OTIF (On Time In Full)
+* Inventory Performance
+* Customer Service Level
+
+## Business Insights
+
+* Identified trends in order fulfillment and delivery performance.
+* Monitored OTIF, Fill Rate, and On-Time Delivery KPIs to evaluate supply chain efficiency.
+* Analyzed supplier and inventory performance to identify operational improvement opportunities.
+* Built interactive dashboards enabling stakeholders to monitor KPIs and make data-driven decisions.
+
+## Skills Demonstrated
+
+* Data Cleaning & Transformation
+* Data Modeling
+* DAX Measures
+* Power Query (ETL)
+* KPI Development
+* Interactive Dashboard Design
+* Business Intelligence
+* Data Visualization
+
+## Business Value
+
+The dashboard provides real-time visibility into supply chain operations, helping decision-makers improve delivery performance, optimize inventory, reduce operational inefficiencies, and enhance customer satisfaction.
+
+## Author
+
+Parzival
+
+Aspiring Data Analyst | Power BI | SQL | Excel | Python
